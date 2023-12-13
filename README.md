@@ -1,39 +1,27 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Bootstrap Your Next Big Idea with Bootstrap 4
 
-Welcome,
+This repo contains the Bootstrap 4 solution code for the *Bootstrap Your Next Big Idea* lesson
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## What is covered
+Bootstrap is an open-source CSS and JavaScript framework, that was developed by Twitter. It provides a huge library of components and functionality that we can you to make our websites responsive, as well as providing pre-built components like tables, buttons, forms, progress bars, etc. that are already styled and ready for us to use!
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Throughout these lessons, we'll learn about how to develop responsive websites using Bootstrap's responsive grid, use different components like tables, and we'll put together a sample website using the Bootstrap framework
 
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Contents
+This repository contains the solution code for the following units -
+  - 01-BootstrapBasecamp
+    - 04-source_code
+  - 02-CoreCSSAndTheGridSystem
+    - 01-mobile_first_design
+    - 02-core_css
+    - 03-the_grid_system
+    - 04-responsive_design
+  - 03-Components
+    - 01-core_components-part-1
+    - 02-core_components-part-2
+    - 03-progressive_enhancements_with_javascript_components-part-1
+    - 04-progressive_enhancements_with_javascript_components-part-2
+  - 04-BeyondBootstrap
+    - 01-updating_our_callout
+    - 02-styling_our_nav_and_alert
+    - 03-cleaning_up_our_content
